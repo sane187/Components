@@ -1,0 +1,9 @@
+.main {
+  height: 90vh;
+}
+
+.btn {
+  border-radius: 20px;
+  background: linear-gradient(270deg, #ff5c00 0%, #ffb800 99.99%, #ffb800 100%);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+}
